@@ -1,3 +1,3 @@
-# realtime_object_detection
+# realtime_object_recognition
 
-in refrence to tutorial: https://youtu.be/zs43IrWTzB0
+
